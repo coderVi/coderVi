@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdülsamet (Coder Vi) YILMAZ</h1>
 <h3 align="center">I am Abdulsamet YILMAZ, a young programmer candidate. I set out on this path to code Embedded Systems. I want to be here with a great success story in the future.</h3>
 
-<img align="right" alt="coding" widht="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="coding" widht="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=6c09b952tds4vc2yj8gkvb0yfqyiz8g5flcouml2wl7bizvi&rid=200w.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codervi&label=Profile%20views&color=0e75b6&style=flat" alt="codervi" /> </p>
 
