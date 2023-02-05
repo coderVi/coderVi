@@ -9,12 +9,24 @@
 
 <p align="left"> <a href="https://twitter.com/codeforvi" target="blank"><img src="https://img.shields.io/twitter/follow/codeforvi?logo=twitter&style=for-the-badge" alt="codeforvi" /></a> </p>
 
+- 🌱 I’m currently learning **C, C# and Python**
+
+- 👯 I’m looking to collaborate on **Embedded systems**
+
+- 🤝 I’m looking for help with **It will help me with software.**
+
+- 👨‍💻 All of my projects are available at [https://github.com/coderVi](https://github.com/coderVi)
+
+- 📫 How to reach me **mr.asmtylmz@gmail.com**
+
+- ⚡ Fun fact **I always make jokes and motivate you**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/codeforvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codeforvi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abd%c3%bclsamet-yilmaz-896278225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abd%c3%bclsamet-yilmaz-896278225" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20609667" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20609667" height="30" width="40" /></a>
-<a href="https://instagram.com/_.a.samet._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.a.samet._" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/_a.samet._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_a.samet._/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucuui0iwbytek5n0b70g-mpg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucuui0iwbytek5n0b70g-mpg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
