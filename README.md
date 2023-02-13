@@ -2,7 +2,7 @@
 <h3 align="center">I am Abdulsamet YILMAZ, a young programmer candidate. I set out on this path to code Embedded Systems. I want to be here with a great success story in the future.</h3>
 
 <img alt="Coder GIF" height=150 width=250 src="https://magiccopy.xyz/assets/images/hadder.gif" />
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codervi&label=Profile%20views&color=0e75b6&style=flat" alt="codervi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codervi" alt="codervi" /></a> </p>
