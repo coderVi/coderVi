@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/codeforvi" target="blank"><img src="https://img.shields.io/twitter/follow/codeforvi?logo=twitter&style=for-the-badge" alt="codeforvi" /></a> </p>
 
-- 🌱 I’m currently learning **C, C# and Python**
+- 🌱 I’m currently learning **Frontend, Java, C# and Python**
 
 - 👯 I’m looking to collaborate on **Embedded systems**
 
