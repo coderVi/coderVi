@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codervi" alt="codervi" /></a> </p>
 
-- 🌱 I’m currently learning **C#, Python, C and Front End**
+- 🌱 I’m currently learning **C#, Python, C, PHP and Front End**
 
 - 📝 I regularly write articles on [https://medium.com/@mr.asmtylmz](https://medium.com/@mr.asmtylmz)
 
